@@ -44,8 +44,8 @@ Contacts:
 
 <p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomchado&layout=compact&&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomchado&layout=compact) 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliomchado&show_icons=true&theme=default&include_all_commits=true&count_private=true&border=none&hide=prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomchado&layout=compact&&langs_count=6)](https://github.com/juliomchado) 
+[![Julio's github stats](https://github-readme-stats.vercel.app/api?username=juliomchado&show_icons=true&theme=default&include_all_commits=true&count_private=true&border=none&hide=prs)](https://github.com/juliomchado)
 
 </p>
 
