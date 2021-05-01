@@ -30,7 +30,6 @@ I'm a FullStack Developer at Aubay Portugal :computer:
 * :heavy_check_mark: Node
 * :heavy_check_mark: Css
 * :heavy_check_mark: HTML
-* :heavy_check_mark: Oracle JET
 * **And more others**
 
 :books: Always studying to improve my skills and do a better job.
