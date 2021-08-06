@@ -29,7 +29,7 @@ I'm a FullStack Developer :computer:
 * :heavy_check_mark: NextJS
 * :heavy_check_mark: Node
 * :heavy_check_mark: Css
-* :heavy_check_mark: HTML
+* :heavy_check_mark: HTML5
 * **And more others**
 
 :books: Always studying to improve my skills and do a better job.
