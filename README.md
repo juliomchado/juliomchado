@@ -28,11 +28,8 @@ I'm a Frontend Developer :computer:
 ### Some technologies in focus now:
 * :heavy_check_mark: Javascript/Typescript
 * :heavy_check_mark: React
-* :heavy_check_mark: React Native
 * :heavy_check_mark: NextJS
-* :heavy_check_mark: Node
-* :heavy_check_mark: Css
-* :heavy_check_mark: HTML5
+* :heavy_check_mark: C#
 * **And more others**
 
 :books: Always studying to improve my skills and do a better job.
