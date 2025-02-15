@@ -37,7 +37,7 @@ I'm a Frontend Developer :computer:
 
 :books: Always studying to improve my skills and do a better job.
 
-About me: I like technology :nerd_face:, games :video_game:, developing :computer:, netflix, talk...
+About me: I like technology :nerd_face:, games :video_game:, developing :computer:, talk...
 
 Contacts: 
 <br/> :email: juliocarlos00@hotmail.com 
