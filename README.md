@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I’m Julio Machado 👋
 
-<!--
-**juliomchado/juliomchado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer adept at designing, implementing, and optimizing both user-facing interfaces and backend services for scalable systems. I have been programming and learning since my teens and, since 2020, have delivered impactful solutions across the financial, public, and enterprise sectors for organizations such as **Oracle**, **Golden GWM (Golden Wealth Management)**, and **AMA (Agência para a Modernização Administrativa)**.
 
-Here are some ideas to get you started:
+- Deep proficiency with JavaScript/TypeScript, React, Next.js, Node.js, C#, Java, and other modern technologies  
+- Building robust UIs, reliable APIs, and automation workflows with user experience and system reliability in mind  
+- Experienced in integrating AI for analytics, automation, and digital strategy  
+- Focused on understanding business needs and creating solutions with measurable, real-world impact  
+- Advocate for clean code, purposeful innovation, and sustainable business value
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_I’m continually learning and evolving every day — always open to new challenges and high-impact collaborations._
+
+📧 juliocarlos00@hotmail.com  
+💻 [LinkedIn](https://www.linkedin.com/in/juliomchado/)
