@@ -1,6 +1,6 @@
 ## Hi, I’m Julio Machado 👋
 
-Developer adept at designing, implementing, and optimizing both user-facing interfaces and backend services for scalable systems. I have been programming and learning since my teens and, since 2020, have delivered impactful solutions across the financial, public, and enterprise sectors for organizations such as **Oracle**, **Golden GWM (Golden Wealth Management)**, and **AMA (Agência para a Modernização Administrativa)**.
+Developer adept at designing, implementing, and optimizing both user-facing interfaces and backend services for scalable systems. I have been programming and learning since my teens and, since 2020, have delivered impactful solutions across the financial, public, and enterprise sectors for organizations such as **Oracle**, **AMA (Agência para a Modernização Administrativa)** and **Golden GWM (Golden Wealth Management)**.
 
 - Deep proficiency with JavaScript/TypeScript, React, Next.js, Node.js, C#, Java, and other modern technologies  
 - Building robust UIs, reliable APIs, and automation workflows with user experience and system reliability in mind  
