@@ -10,5 +10,5 @@ Developer adept at designing, implementing, and optimizing both user-facing inte
 
 _I’m continually learning and evolving every day — always open to new challenges and high-impact collaborations._
 
-📧 juliocarlos00@hotmail.com  
-💻 [LinkedIn](https://www.linkedin.com/in/juliomchado/)
+📧 juliomachadome@gmail.com  
+💻 [LinkedIn](https://www.linkedin.com/in/juliomachadome/)
